@@ -3,8 +3,8 @@
 ##👾Projects:
 - <br>Arduino and C++<br/>
   - [JJK Cube](https://github.com/Tendeez1/JJK-Cube)
--<br>C and Data Analysis<br/>
-  [Finance Tracker](https://github.com/Tendeez1/Finance-Tracker)
+- <br>C and Data Analysis<br/>
+  - [Finance Tracker](https://github.com/Tendeez1/Finance-Tracker)
   
 
 
