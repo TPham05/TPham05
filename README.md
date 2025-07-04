@@ -1,5 +1,5 @@
 # 👋Hi, I'm Tommy!
-🖥️Studying Computer Engineering at McMaster University, Hamilton, Ontario<br/> <br>🤖A show inspired project, created using Arduino and C. Mainly focused on incorporating facial recognition and tracking<br/><br>🧑‍💻Interests : OOP, Logic Design/Embedded Systems incoporated with programming<br/><br>😁Main Programming Language: C, C++<br>
+🖥️Studying Computer Engineering at McMaster University, Hamilton, Ontario<br/> <br>🧑‍💻Interests : OOP, Logic Design/Embedded Systems incoporated with programming<br/><br>😁Main Programming Language: C, C++<br>
 ## 👾Projects:
 - Arduino and C++<br/>
   - [JJK Cube](https://github.com/Tendeez1/JJK-Cube)
