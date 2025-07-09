@@ -5,6 +5,8 @@
   - [JJK Cube](https://github.com/Tendeez1/JJK-Cube)
 - C and Data Analysis<br/>
   - [Finance Tracker](https://github.com/Tendeez1/Finance-Tracker)
+- OpenCV and MediaPIP
+  - [Gesture_Machine](https://github.com/TPham05/Gesture-Machine)
   
 
 
