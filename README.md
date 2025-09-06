@@ -1,13 +1,6 @@
 # 👋Hi, I'm Tommy!
-🖥️Studying Computer Engineering at McMaster University, Hamilton, Ontario<br/> <br>🧑‍💻Interests : OOP, Logic Design/Embedded Systems incoporated with programming<br/><br>😁Main Programming Language: C, C++<br>
-## 👾Projects:
-- Arduino and C++<br/>
-  - [Autonomous Cube](https://github.com/Tendeez1/JJK-Cube)
-- C and Data Analysis<br/>
-  - [Finance Tracker](https://github.com/Tendeez1/Finance-Tracker)
-- OpenCV and MediaPIPE
-  - [Gesture_Machine](https://github.com/TPham05/Gesture-Machine)
-  
+🖥️Studying Computer Engineering at McMaster University, Hamilton, Ontario<br/> <br>🧑‍💻Interests : Linux, Custom PCBs, Computer Infrastrutures g<br/><br>😁Main Programming Language: C, C++<br>
+
 
 
 # 💻 Tech Stack:
