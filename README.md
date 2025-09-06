@@ -1,5 +1,5 @@
 # 👋Hi, I'm Tommy!
-🖥️Studying Computer Engineering at McMaster University, Hamilton, Ontario<br/> <br>🧑‍💻Interests : Linux, Custom PCBs, Computer Infrastrutures g<br/><br>😁Main Programming Language: C, C++<br>
+🖥️Studying Computer Engineering at McMaster University, Hamilton, Ontario<br/> <br>🧑‍💻Interests : Linux, Custom PCBs, Computer Infrastrutures,  and FPGA<br/><br>😁Main Programming Language: C, C++<br>
 
 
 
